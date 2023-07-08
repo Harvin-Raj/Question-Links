@@ -1,4 +1,4 @@
-"# Run the code in app.py"
+"# Run the code in app.py\n"
 "#https://questions-search.onrender.com"
 lc.py gets all question links from 55 pages of leetcode into lc.txt
 lc_cleaner.py filters solutions from lc.txt and stores links into lc_problems.txt
